@@ -22,4 +22,4 @@ The rtt stands for (Round Trip Time), and it's to measure how long it took a pac
 * 200.770 ms is the maximum measurement, which means its the slowest response.
 * 45.331 ms is the mdev (deviation) measurement, which means how much latiency varied.
 
-From what I'm seeing looking at my statistics, it's showing me that my response times are consistent to the degree I want it. Sometimes the responses would be around 4ms and then jump to 201 ms. Now, from what I gathered, 57ms is higher than I'd want for a LAN connection. But, both devices are on WI-FI, maybe that's why?? I'll investigate this later. Right now, this is good because it proves these devices can find each other.
+From what I'm seeing looking at my statistics, it's showing me that my response times are inconsistent to the degree I want it. Sometimes the responses would be around 4ms and then jump to 201 ms. Now, from what I gathered, 57ms is higher than I'd want for a LAN connection. But, both devices are on WI-FI, maybe that's why?? I'll investigate this later. Right now, this is good because it proves these devices can find each other.
